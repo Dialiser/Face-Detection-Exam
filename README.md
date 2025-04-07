@@ -34,7 +34,7 @@ Motion Detector is a web application that utilizes your device's camera to detec
 
 To get started with Motion Detector, you'll need to have [Node.js](https://nodejs.org/) installed on your machine. Once you have Node.js, follow these simple steps:
 
-1.  Clone this repository to your local machine using your favorite Git client or by running `git clone https://github.com/CovenantJunior/motion-detector.git` in your terminal.
+1.  Clone this repository to your local machine using your favorite Git client or by running `git clone  https://github.com/Dialiser/Face-Detection-Exam` in your terminal.
 
 2.  Navigate to the project directory by running `cd motion-detector`.
 
